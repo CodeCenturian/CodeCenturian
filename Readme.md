@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Code Logo -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Code Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280" alt="Code Animation"/>
 
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Ashutosh+Kumar;Software+Developer+%7C+CSE+%40+IIIT+Bhopal" alt="Typing SVG" />
