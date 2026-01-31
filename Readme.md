@@ -80,9 +80,9 @@
 <br/>
 
 <!-- Contribution Graph -->
-<a href="https://github.com/CodeCenturian">
+<!-- <a href="https://github.com/CodeCenturian">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCenturian&theme=github-dark&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</a>
+</a> -->
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
