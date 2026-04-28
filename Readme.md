@@ -110,10 +110,10 @@
 
 |  | Achievement | Details |
 |:---:|:---|:---|
-| 🛡️ | **LeetCode Knight** | Rating **1854** |
-| ⭐ | **CodeChef 3 Star** | Max Rating **1634** |
-| ✅ | **Problem Solver** | **750+** DSA problems solved |
-| 🎓 | **Academic Excellence** | Top **5%** at IIIT Bhopal |
+| 🛡️ | **LeetCode Knight** | Rating **1933** |
+| ⭐ | **CodeChef 3 Star** | Max Rating **1700+** |
+| ✅ | **Problem Solver** | **900+** DSA problems solved |
+| 🎓 | **Academic Excellence** | Top **3%** at IIIT Bhopal |
 | 🎤 | **Branch Representative** | Faculty-student liaison |
 
 </div>
