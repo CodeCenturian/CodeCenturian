@@ -7,7 +7,8 @@ require_once dirname(__DIR__, 1) . "/vendor/autoload.php";
 require_once __DIR__ . "/../src/stats.php";
 require_once __DIR__ . "/../src/card.php";
 require_once __DIR__ . "/../src/cache.php";
-require_once __DIR__ . "/../src/generator.php";require_once __DIR__ . "/../src/views.php";
+require_once __DIR__ . "/../src/generator.php";
+require_once __DIR__ . "/../src/views.php";
 
 // render dynamic view counter badge if type=views
 if (isset($_REQUEST["type"]) && $_REQUEST["type"] === "views") {
