@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/ashutoshkumar879/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/ashutosh_879"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
   <a href="https://github.com/CodeCenturian"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=CodeCenturian&style=flat-square&color=00D9FF" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-1.5k+-00D9FF?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
 </p>
 
 <!-- Prominent Resume Callout Button -->
