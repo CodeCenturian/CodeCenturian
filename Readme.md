@@ -68,7 +68,8 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodeCenturian&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCenturian&theme=github_dark&hide_border=true" height="180" alt="GitHub Streak"/>
+<!-- Self-hosted Vercel Streak Stats (replace with your-app.vercel.app after deploying streak-stats folder with PAT) -->
+<img src="https://streak-stats.demolab.com/?user=CodeCenturian&theme=github_dark&hide_border=true" height="180" alt="GitHub Streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCenturian&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 
