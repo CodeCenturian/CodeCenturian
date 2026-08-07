@@ -81,9 +81,9 @@
 <br/>
 
 <!-- Contribution Graph -->
-<a href="https://github.com/CodeCenturian">
+<!-- <a href="https://github.com/CodeCenturian">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCenturian&theme=github-dark&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</a>
+</a> -->
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -111,10 +111,10 @@
 
 |  | Achievement | Details |
 |:---:|:---|:---|
-| 🛡️ | **LeetCode Knight** | Rating **1854** |
-| ⭐ | **CodeChef 3 Star** | Max Rating **1634** |
-| ✅ | **Problem Solver** | **750+** DSA problems solved |
-| 🎓 | **Academic Excellence** | Top **5%** at IIIT Bhopal |
+| 🛡️ | **LeetCode Knight** | Rating **1933** |
+| ⭐ | **CodeChef 3 Star** | Max Rating **1700+** |
+| ✅ | **Problem Solver** | **900+** DSA problems solved |
+| 🎓 | **Academic Excellence** | Top **3%** at IIIT Bhopal |
 | 🎤 | **Branch Representative** | Faculty-student liaison |
 
 </div>
