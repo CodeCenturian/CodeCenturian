@@ -122,13 +122,13 @@ function getRequestedTheme(array $params): array
      * @var array<string,array<string,string>> $THEMES
      * List of theme names mapped to labeled colors
      */
-    $THEMES = include "themes.php";
+    $THEMES = include __DIR__ . "/themes.php";
 
     /**
      * @var array<string> $CSS_COLORS
      * List of valid CSS colors
      */
-    $CSS_COLORS = include "colors.php";
+    $CSS_COLORS = include __DIR__ . "/colors.php";
 
     // normalize theme name
     $selectedTheme = normalizeThemeName($params["theme"] ?? "default");
@@ -290,7 +290,7 @@ function getTranslations(string $localeCode): array
     // normalize locale code
     $localeCode = normalizeLocaleCode($localeCode);
     // get the labels from the translations file
-    $translations = include "translations.php";
+    $translations = include __DIR__ . "/translations.php";
     // if the locale does not exist, try without the script and region
     if (!isset($translations[$localeCode])) {
         $localeCode = explode("_", $localeCode)[0];

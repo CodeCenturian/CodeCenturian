@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 // load functions
 require_once dirname(__DIR__, 1) . "/vendor/autoload.php";
-require_once "stats.php";
-require_once "card.php";
-require_once "cache.php";
-require_once "generator.php";
+require_once __DIR__ . "/../src/stats.php";
+require_once __DIR__ . "/../src/card.php";
+require_once __DIR__ . "/../src/cache.php";
+require_once __DIR__ . "/../src/generator.php";
 
 // load .env
 $dotenv = \Dotenv\Dotenv::createImmutable(dirname(__DIR__, 1));
@@ -27,9 +27,9 @@ header("Expires: " . gmdate("D, d M Y H:i:s", time() + $cacheSeconds) . " GMT");
 header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 header("Cache-Control: public, max-age=$cacheSeconds");
 
-// redirect to demo site if user is not given
+// render error if user is not given
 if (!isset($_REQUEST["user"])) {
-    header("Location: demo/");
+    renderOutput("Missing ?user= parameter", 400);
     exit();
 }
 

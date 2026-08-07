@@ -1,7 +1,6 @@
 {
     "routes": [
         { "handle": "filesystem" },
-        { "src": "/demo/?", "dest": "/streak-stats/api/demo/index.php" },
         { "src": "/(.*)", "dest": "/streak-stats/api/index.php" }
     ],
     "functions": {
